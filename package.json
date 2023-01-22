@@ -1,0 +1,19 @@
+{
+  "name": "react-old_fashion",
+  "version": "1.0.0",
+  "description": "This is a live course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayan77/React-old_fashion.git"
+  },
+  "author": "Sayan Mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayan77/React-old_fashion/issues"
+  },
+  "homepage": "https://github.com/sayan77/React-old_fashion#readme"
+}
